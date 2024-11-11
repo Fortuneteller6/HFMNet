@@ -61,7 +61,7 @@ python visulization.py --base_size 256 --crop_size 256 --st_model IRSTD-1K_HFMNe
 | HFMNet |  IRSTD-1K  | 92.52 | 4.18  | 70.38 |  82.62   | [Weights]() |
 | HFMNet | NUAA-SIRST | 99.08 | 0.35  | 79.16 |  88.37   | [Weights]() |
 | HFMNet | NUDT-SIRST | 99.30 | 6.05  | 91.34 |  95.47   | [Weights]() |
-| HFMNet | DenseSIRST | 91.34 | 8.52 | 69.35 |  81.89   | [Weights]() |
+| HFMNet | DenseSIRST | 91.34 | 8.52 | 69.35 |  81.90   | [Weights]() |
 
 <hr/>
 
