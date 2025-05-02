@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/Building-Done-green.svg?style=flat-square)](https://github.com/Fortuneteller6/HFMNet) ![](https://img.shields.io/badge/Language-Python-blue.svg?style=flat-square) [![](https://img.shields.io/badge/License-MIT-purple.svg?style=flat-square)](./LICENSE)
 
-> [Paper Link]()  
+> [Paper Link](https://ieeexplore.ieee.org/abstract/document/10927642)  
 > Authors: Kuanhong Cheng, Teng Ma, Rong Fei, and Junhuai Li. <br/>
 > The code and model weights will be made public after the paper is accepted. Thanks for your attention!
 
@@ -74,6 +74,15 @@ The code of this paper is highly borrowed from [DNANet](https://github.com/YeRen
 If you find the code helpful in your resarch or work, please cite this paper as following.
 
 ```
+@ARTICLE{HFMNet,
+  author={Cheng, Kuanhong and Ma, Teng and Fei, Rong and Li, Junhuai},
+  journal={IEEE Sensors Journal}, 
+  title={A Lightweight Feature Enhancement Model for Infrared Small Target Detection}, 
+  year={2025},
+  volume={25},
+  number={9},
+  pages={15224-15234}
+}
 
 ```
 
