@@ -85,7 +85,7 @@ If you find the code helpful in your resarch or work, please cite this paper as 
 }
 ```
 
-Should the findings presented in this study prove valuable to your research endeavors, we would like to highlight that additional IRSTD-related work conducted by our team may also offer relevant insights for your consideration.
+If the above article has reference value for your work, our team's other IRSTD works can also serve as references. [MDCENet](https://www.sciencedirect.com/science/article/abs/pii/S1350449524003591)|[WaveTD](https://www.sciencedirect.com/science/article/abs/pii/S1350449525001434)
 
 ```
 @article{MDCENet,
