@@ -86,6 +86,31 @@ If you find the code helpful in your resarch or work, please cite this paper as 
 
 ```
 
+Should the findings presented in this study prove valuable to your research endeavors, we would like to highlight that additional IRSTD-related work conducted by our team may also offer relevant insights for your consideration.
+
+```
+@article{MDCENet,
+  title={Mdcenet: Multi-dimensional cross-enhanced network for infrared small target detection},
+  author={Ma, Teng and Cheng, Kuanhong and Chai, Tingting and Prasad, Shitala and Zhao, Dong and Li, Junhuai and Zhou, Huixin},
+  journal={Infrared Physics \& Technology},
+  volume={141},
+  pages={105475},
+  year={2024},
+  publisher={Elsevier}
+}
+
+@article{WaveTD,
+  title={An Wavelet Steered network for efficient infrared small target detection},
+  author={Ma, Teng and Cheng, Kuanhong and Chai, Tingting and Wu, Yubo and Zhou, Huixin},
+  journal={Infrared Physics \& Technology},
+  volume = {148},
+  pages={105850},
+  year={2025},
+  publisher={Elsevier}
+}
+
+```
+
 ### Contact
 
 If you have any questions, please feel free to reach me out at teng_m@yeah.net
