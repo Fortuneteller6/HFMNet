@@ -85,7 +85,7 @@ If you find the code helpful in your resarch or work, please cite this paper as 
 }
 ```
 
-If the above article has reference value for your work, our team's other IRSTD works can also serve as references. [MDCENet](https://www.sciencedirect.com/science/article/abs/pii/S1350449524003591)|[WaveTD](https://www.sciencedirect.com/science/article/abs/pii/S1350449525001434)
+If the above article has reference value for your work, our team's other IRSTD works can also serve as references. 📖 [MDCENet](https://www.sciencedirect.com/science/article/abs/pii/S1350449524003591) | 📖 [WaveTD](https://www.sciencedirect.com/science/article/abs/pii/S1350449525001434)
 
 ```
 @article{MDCENet,
