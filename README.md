@@ -74,7 +74,7 @@ The code of this paper is highly borrowed from [DNANet](https://github.com/YeRen
 If you find the code helpful in your resarch or work, please cite this paper as following.
 
 ```
-@ARTICLE{HFMNet,
+@article{HFMNet,
   author={Cheng, Kuanhong and Ma, Teng and Fei, Rong and Li, Junhuai},
   journal={IEEE Sensors Journal}, 
   title={A Lightweight Feature Enhancement Model for Infrared Small Target Detection}, 
@@ -83,7 +83,6 @@ If you find the code helpful in your resarch or work, please cite this paper as 
   number={9},
   pages={15224-15234}
 }
-
 ```
 
 Should the findings presented in this study prove valuable to your research endeavors, we would like to highlight that additional IRSTD-related work conducted by our team may also offer relevant insights for your consideration.
@@ -108,7 +107,6 @@ Should the findings presented in this study prove valuable to your research ende
   year={2025},
   publisher={Elsevier}
 }
-
 ```
 
 ### Contact
