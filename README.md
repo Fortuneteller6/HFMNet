@@ -1,14 +1,15 @@
-### 📖 A Lightweight Feature Enhancement Model for Infrared Small Target Detection
+<div id="top" align="center">
+
+### A Lightweight Feature Enhancement Model for Infrared Small Target Detection
+
+Kuanhong Cheng, Teng Ma, Rong Fei, and Junhuai Li.
 
 <hr/>
 
-[![](https://img.shields.io/badge/Building-Done-green.svg?style=flat-square)](https://github.com/Fortuneteller6/HFMNet) ![](https://img.shields.io/badge/Language-Python-blue.svg?style=flat-square) [![](https://img.shields.io/badge/License-MIT-purple.svg?style=flat-square)](./LICENSE)
+[![](https://img.shields.io/badge/ISJ-2025.3549519-green.svg?style=flat-square)]([10.1109/JSEN.2025.3549519](https://doi.org/10.1109/JSEN.2025.3549519))
+![](https://img.shields.io/badge/Language-Python-blue.svg?style=flat-square)
 
-> [Paper Link](https://ieeexplore.ieee.org/abstract/document/10927642)  
-> Authors: Kuanhong Cheng, Teng Ma, Rong Fei, and Junhuai Li. <br/>
-> The code and model weights will be made public after the paper is accepted. Thanks for your attention!
-
-<hr/>
+</div>
 
 ### Datasets Prepare
 
