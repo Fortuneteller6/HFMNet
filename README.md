@@ -2,10 +2,10 @@
 
 ### A Lightweight Feature Enhancement Model for Infrared Small Target Detection
 
-Kuanhong Cheng, Teng Ma, Rong Fei, and Junhuai Li. </br>
+Kuanhong Cheng, Teng Ma, Rong Fei, and Junhuai Li </br>
 
-[![](https://img.shields.io/badge/ISJ-2025.3549519-blue.svg?style=flat-square)]([10.1109/JSEN.2025.3549519](https://doi.org/10.1109/JSEN.2025.3549519))
-![](https://img.shields.io/badge/Language-Python-b31b1b.svg?style=flat-square)
+[![ISJ](https://img.shields.io/badge/2025.3549519-white.svg?style=flat-square&logo=ieee&logoSize=auto&labelColor=grey&color=blue)](https://doi.org/10.1109/JSEN.2025.3549519)
+[![ISJ](https://img.shields.io/badge/Language-Python-white.svg?style=flat-square&logo=python&logoSize=auto&logoColor=white&labelColor=grey&color=b31b1b)](https://www.python.org)
 
 <hr/>
 
